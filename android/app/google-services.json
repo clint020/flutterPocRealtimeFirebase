@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "898324435938",
+    "firebase_url": "https://planeggfirebase1-default-rtdb.firebaseio.com",
+    "project_id": "planeggfirebase1",
+    "storage_bucket": "planeggfirebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898324435938:android:9d8e961fbd3170f22adfbb",
+        "android_client_info": {
+          "package_name": "com.planeggmobile.flutterpocuus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmrk5CD4cwyO-UkgCpnY5cQWOXIpZenM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
